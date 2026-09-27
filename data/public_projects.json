@@ -1,0 +1,367 @@
+{
+  "retrieved_at": "2026-09-26",
+  "projects": [
+    {
+      "project_id": "GP-ASHLEY-WANSLEY-500KV",
+      "utility": "Georgia Power",
+      "project_name": "Ashley Park \u2013 Wansley 500 kV Transmission Line",
+      "project_type": "new_line",
+      "voltage_kv": 500,
+      "location_text": "Ashley Park Substation, Fayette County to Plant Wansley, Heard County; crosses Fulton and Coweta counties",
+      "start_date": "2027-07-01",
+      "end_date": "2028-06-30",
+      "schedule_text": "Line construction begins Q3 2027; project complete Q2 2028 (tentative).",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.55,
+            33.45
+          ],
+          [
+            -85.12,
+            33.36
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate endpoint chord from published endpoint/county descriptions; not the filed route geometry.",
+      "source_title": "Georgia Power project page \u2014 Ashley Park\u2013Wansley",
+      "source_url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/ashley-park.html",
+      "source_quote": "A new 35-mile line between Ashley Park Substation in Fayette County and Plant Wansley in Heard County; construction begins Q3 2027 and completion is Q2 2028."
+    },
+    {
+      "project_id": "GP-HATCH-WADLEY-500KV",
+      "utility": "Georgia Power",
+      "project_name": "Hatch\u2013Wadley Primary 500 kV Transmission Line",
+      "project_type": "new_line",
+      "voltage_kv": 500,
+      "location_text": "Plant Hatch, Appling County to Wadley Primary Substation, Jefferson County; crosses Toombs and Emanuel counties",
+      "start_date": "2028-10-01",
+      "end_date": "2031-03-31",
+      "schedule_text": "Line construction begins Q4 2028; project completion Q1 2031 (tentative).",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.32,
+            31.91
+          ],
+          [
+            -82.4,
+            32.86
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate endpoint chord from published endpoint/county descriptions; not the filed route geometry.",
+      "source_title": "Georgia Power project page \u2014 Hatch\u2013Wadley Primary",
+      "source_url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hatch-wadley.html",
+      "source_quote": "An approximately 75-mile line from Plant Hatch in Appling County to Wadley Primary in Jefferson County; construction begins Q4 2028 and completion is Q1 2031."
+    },
+    {
+      "project_id": "GP-TOMOCHICHI-TOWALIGA-230KV",
+      "utility": "Georgia Power",
+      "project_name": "Tomochichi\u2013Towaliga River 230 kV Area Project",
+      "project_type": "new_line",
+      "voltage_kv": 230,
+      "location_text": "Butts and Spalding counties, Georgia",
+      "start_date": "2027-01-01",
+      "end_date": "2027-12-31",
+      "schedule_text": "Transmission line construction begins Q1 2027; project completion target Q4 2027 (tentative).",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.02,
+            33.29
+          ],
+          [
+            -84.2,
+            33.25
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate county-area chord; the public page describes two roughly five-mile lines but does not publish route coordinates in text.",
+      "source_title": "Georgia Power project page \u2014 Tomochichi\u2013Towaliga River",
+      "source_url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/tomochichi-towaliga.html",
+      "source_quote": "Two new approximately five-mile 230 kV lines in Butts and Spalding counties; line construction begins Q1 2027 and target completion is Q4 2027."
+    },
+    {
+      "project_id": "GP-HILLS-BRIDGE-SPEEDWAY-500KV",
+      "utility": "Georgia Power",
+      "project_name": "Hills Bridge\u2013Speedway 230/500 kV Transmission Project",
+      "project_type": "new_line",
+      "voltage_kv": 500,
+      "location_text": "Henry and Clayton counties, Georgia",
+      "start_date": "2026-04-01",
+      "end_date": "2028-12-31",
+      "schedule_text": "Construction begins Q2 2026; project completion Q4 2028 (tentative).",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.15,
+            33.45
+          ],
+          [
+            -84.31,
+            33.57
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate county-area chord; the public page describes project area and voltage but no route coordinates in text.",
+      "source_title": "Georgia Power project page \u2014 Hills Bridge\u2013Speedway",
+      "source_url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hills-bridge-speedway.html",
+      "source_quote": "Project in Henry and Clayton counties; construction begins Q2 2026 and completion is Q4 2028."
+    },
+    {
+      "project_id": "DESC-FROGMORE-ST-HELENA-115KV",
+      "utility": "Dominion Energy South Carolina",
+      "project_name": "Frogmore\u2013St. Helena 115 kV Line Rebuild",
+      "project_type": "line_rebuild",
+      "voltage_kv": 115,
+      "location_text": "Frogmore and St. Helena substations, Beaufort County, South Carolina",
+      "start_date": "2026-10-01",
+      "end_date": "2027-12-31",
+      "schedule_text": "Transmission line construction begins fall 2026 and continues through the end of 2027.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.69,
+            32.435
+          ],
+          [
+            -80.585,
+            32.405
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate endpoint chord based on the two named substations and published five-mile length; not a georeferenced route.",
+      "source_title": "Dominion Energy project page \u2014 Frogmore\u2013St. Helena",
+      "source_url": "https://www.dominionenergy.com/about/delivering-energy/electric-projects/power-line-projects/frogmore-st-helena",
+      "source_quote": "A roughly five-mile 115 kV rebuild between the Frogmore and St. Helena substations; construction runs from fall 2026 through the end of 2027."
+    },
+    {
+      "project_id": "DESC-RITTER-YEMASSEE-230KV",
+      "utility": "Dominion Energy South Carolina",
+      "project_name": "Ritter\u2013Yemassee 230 kV / 115 kV Transmission System Expansion",
+      "project_type": "new_line",
+      "voltage_kv": 230,
+      "location_text": "Transmission corridor in Colleton and Hampton counties near U.S. Highway 17-A, South Carolina",
+      "start_date": "2026-03-01",
+      "end_date": "2027-12-31",
+      "schedule_text": "Transmission construction begins spring 2026 and continues through the end of 2027.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.82,
+            32.68
+          ],
+          [
+            -80.77,
+            32.83
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate corridor line based on published county/highway description; not the filed route geometry.",
+      "source_title": "Dominion Energy project page \u2014 Ritter\u2013Yemassee",
+      "source_url": "https://www.dominionenergy.com/about/delivering-energy/electric-projects/power-line-projects/ritter-yemassee",
+      "source_quote": "A transmission corridor in Colleton and Hampton counties near U.S. 17-A; construction begins spring 2026 and continues through the end of 2027."
+    },
+    {
+      "project_id": "DESC-JASPER-OKATIE-SHERWOOD-230KV",
+      "utility": "Dominion Energy South Carolina",
+      "project_name": "Jasper\u2013Okatie\u2013Sherwood 230 kV Lines and Substation",
+      "project_type": "new_line",
+      "voltage_kv": 230,
+      "location_text": "Jasper Generating Plant to Okatie substation to Sherwood substation, Jasper County, South Carolina",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "schedule_text": "The project page reports construction beginning Q1 2025; it does not provide a completion date.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.98,
+            32.48
+          ],
+          [
+            -80.9,
+            32.3
+          ],
+          [
+            -80.85,
+            32.25
+          ]
+        ]
+      },
+      "geometry_quality": "Approximate chord through named facilities; route map is available from the source page but has not been digitized.",
+      "source_title": "Dominion Energy project page \u2014 Jasper\u2013Okatie\u2013Sherwood",
+      "source_url": "https://www.dominionenergy.com/about/delivering-energy/electric-projects/power-line-projects/jasper-okatie-sherwood",
+      "source_quote": "Two new 230 kV lines: Jasper Generating Plant to Okatie, then Okatie to Sherwood; tree clearing and construction began Q1 2025."
+    },
+    {
+      "project_id": "GP-EFFINGHAM-500KV-AREA",
+      "utility": "Georgia Power",
+      "project_name": "Effingham County 500 kV Area Project",
+      "project_type": "substation",
+      "voltage_kv": 500,
+      "location_text": "Effingham County, Georgia",
+      "start_date": null,
+      "end_date": null,
+      "schedule_text": "Georgia Power lists this current project but its public project list does not publish a construction window or route coordinates.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34,
+          32.37
+        ]
+      },
+      "geometry_quality": "County-level screening point only; no route geometry or site coordinate is published in the project list.",
+      "source_title": "Georgia Power transmission projects list",
+      "source_url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects.html",
+      "source_quote": "The current project list identifies Effingham County 500 kV as an area project in Effingham County."
+    },
+    {
+      "project_id": "FPL-ANDYTOWN-OASIS-500KV",
+      "utility": "Florida Power & Light",
+      "region": "South Florida",
+      "project_name": "Andytown–Oasis 500 kV Transmission Line",
+      "project_type": "new_line",
+      "voltage_kv": 500,
+      "location_text": "Andytown Substation in Broward County to planned Oasis Substation in Miami-Dade County",
+      "start_date": "2029-01-01",
+      "end_date": "2033-12-31",
+      "schedule_text": "FPL lists early 2029 construction and late 2033 completion.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-80.55, 26.02], [-80.49, 25.82]]
+      },
+      "geometry_quality": "Approximate endpoint chord from the FPL project description; the preferred corridor has not been digitized here.",
+      "source_title": "FPL project page — Andytown–Oasis",
+      "source_url": "https://www.fpl.com/reliability/andytown-oasis-project.html",
+      "source_quote": "FPL lists four new lines between Broward and Miami-Dade counties, with construction beginning early 2029 and completion late 2033."
+    },
+    {
+      "project_id": "FPL-QUARRY-OASIS-500KV",
+      "utility": "Florida Power & Light",
+      "region": "South Florida",
+      "project_name": "Quarry–Oasis 500 kV Transmission Line",
+      "project_type": "new_line",
+      "voltage_kv": 500,
+      "location_text": "Quarry Substation in Miami-Dade County to planned Oasis Substation",
+      "start_date": "2029-01-01",
+      "end_date": "2033-12-31",
+      "schedule_text": "FPL lists early 2029 construction and late 2033 completion.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-80.33, 25.86], [-80.49, 25.82]]
+      },
+      "geometry_quality": "Approximate endpoint chord from the FPL project description; the preferred corridor has not been digitized here.",
+      "source_title": "FPL project page — Andytown–Oasis",
+      "source_url": "https://www.fpl.com/reliability/andytown-oasis-project.html",
+      "source_quote": "One 500 kV line runs from FPL’s existing Quarry Substation to the planned Oasis Substation."
+    },
+    {
+      "project_id": "FPL-OASIS-LEVEE-230KV",
+      "utility": "Florida Power & Light",
+      "region": "South Florida",
+      "project_name": "Oasis–Levee 230 kV Transmission Line",
+      "project_type": "new_line",
+      "voltage_kv": 230,
+      "location_text": "Planned Oasis Substation to existing Levee Substation in Miami-Dade County",
+      "start_date": "2029-01-01",
+      "end_date": "2033-12-31",
+      "schedule_text": "FPL lists early 2029 construction and late 2033 completion.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-80.49, 25.82], [-80.58, 25.66]]
+      },
+      "geometry_quality": "Approximate endpoint chord from the FPL project description; the preferred corridor has not been digitized here.",
+      "source_title": "FPL project page — Andytown–Oasis",
+      "source_url": "https://www.fpl.com/reliability/andytown-oasis-project.html",
+      "source_quote": "One 230 kV line runs from the planned Oasis Substation to FPL’s existing Levee Substation."
+    },
+    {
+      "project_id": "FPL-OASIS-QUARRY-230KV",
+      "utility": "Florida Power & Light",
+      "region": "South Florida",
+      "project_name": "Oasis–Quarry 230 kV Transmission Line",
+      "project_type": "new_line",
+      "voltage_kv": 230,
+      "location_text": "Planned Oasis Substation to existing Quarry Substation in Miami-Dade County",
+      "start_date": "2029-01-01",
+      "end_date": "2033-12-31",
+      "schedule_text": "FPL lists early 2029 construction and late 2033 completion.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-80.49, 25.82], [-80.33, 25.86]]
+      },
+      "geometry_quality": "Approximate endpoint chord from the FPL project description; the preferred corridor has not been digitized here.",
+      "source_title": "FPL project page — Andytown–Oasis",
+      "source_url": "https://www.fpl.com/reliability/andytown-oasis-project.html",
+      "source_quote": "One 230 kV line runs from the planned Oasis Substation to FPL’s existing Quarry Substation."
+    },
+    {
+      "project_id": "HPS-DONNIE-AVOCADO-SUBSTATION",
+      "utility": "Homestead Public Services Energy",
+      "region": "South Florida",
+      "project_name": "Donnie Avocado Substation",
+      "project_type": "substation",
+      "voltage_kv": 138,
+      "location_text": "Northeast Homestead, Miami-Dade County",
+      "start_date": null,
+      "end_date": "2027-03-31",
+      "schedule_text": "HPS reported re-bidding and expected completion in Q1 2027.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.43, 25.52]
+      },
+      "geometry_quality": "Approximate northeast Homestead screening point; the public report does not provide a coordinate.",
+      "source_title": "Homestead City Manager report — HPS Energy CIP",
+      "source_url": "https://www.homesteadfl.gov/DocumentCenter/View/5895/Nov-Dec-CM-Report",
+      "source_quote": "Donnie Avocado Substation: re-bidding, with expected completion in Q1 2027."
+    },
+    {
+      "project_id": "HPS-REDLAND-SUBSTATION-EXPANSION",
+      "utility": "Homestead Public Services Energy",
+      "region": "South Florida",
+      "project_name": "Redland Substation Expansion",
+      "project_type": "substation",
+      "voltage_kv": 138,
+      "location_text": "Redland area, Homestead, Miami-Dade County",
+      "start_date": null,
+      "end_date": "2027-03-31",
+      "schedule_text": "HPS reported planned completion in Q1 2027.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.49, 25.51]
+      },
+      "geometry_quality": "Approximate Redland-area screening point; the public report does not provide a coordinate.",
+      "source_title": "Homestead City Manager accomplishments — HPS Energy",
+      "source_url": "https://www.homesteadfl.gov/DocumentCenter/View/5271/City-Manager-1-Year-Accomplishments-Booklet-",
+      "source_quote": "Redland Substation Expansion: doubling capacity, with planned completion in Q1 2027."
+    },
+    {
+      "project_id": "HPS-RENAISSANCE-INTERCONNECTION",
+      "utility": "Homestead Public Services Energy",
+      "region": "South Florida",
+      "project_name": "Renaissance Substation Interconnection",
+      "project_type": "substation_equipment",
+      "voltage_kv": 138,
+      "location_text": "Renaissance Substation, Homestead, Miami-Dade County",
+      "start_date": null,
+      "end_date": "2026-09-30",
+      "schedule_text": "HPS reported planned completion in Q3 2026.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.44, 25.48]
+      },
+      "geometry_quality": "Approximate Homestead screening point; the public report does not provide a coordinate.",
+      "source_title": "Homestead City Manager accomplishments — HPS Energy",
+      "source_url": "https://www.homesteadfl.gov/DocumentCenter/View/5271/City-Manager-1-Year-Accomplishments-Booklet-",
+      "source_quote": "Renaissance Interconnection: a new grid interconnection, with planned completion in Q3 2026."
+    }
+  ]
+}

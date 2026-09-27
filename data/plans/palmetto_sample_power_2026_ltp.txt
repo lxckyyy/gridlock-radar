@@ -1,0 +1,47 @@
+=== Page 1 ===
+Utility: Palmetto Sample Power
+2026 Local Transmission Plan - Public Summary
+SYNTHETIC SAMPLE DOCUMENT FOR HACKATHON DEMO. Not a real utility; substations are placed near real towns.
+
+Project PSP-2027-001: North Augusta-Aiken 230 kV Line Rebuild
+Location: North Augusta substation to Aiken substation, Aiken County, SC
+Scope: rebuild 16 miles of 230 kV line on steel poles
+Construction: March 2027 – October 2027
+Status: Approved
+
+Project PSP-2027-004: Beech Island-Jackson 115 kV Line Rebuild
+Location: Beech Island substation to Jackson substation, Aiken County
+Scope: rebuild 9 miles of 115 kV line along the Savannah River
+Construction window: Q2 2027 – Q3 2027
+Status: Planned
+
+Project PSP-2028-002: Clarks Hill Area Reliability Project
+Scope: new 115 kV substation to relieve overloads in the area
+Location: near Clarks Hill
+Timing: 2028
+Status: Proposed
+
+=== Page 2 ===
+Project PSP-2027-009: McCormick 115 kV Transformer Replacement
+Location: McCormick substation, McCormick County
+Scope: replace one 1970-vintage transformer
+Est. construction: May 2027 - Nov 2027
+Status: Approved
+
+Project PSP-2029-001: Allendale 230 kV Breaker Upgrades
+Location: Allendale substation, Allendale County
+Scope: replace four 230 kV breakers and relays
+In-service: December 2029
+Status: Planned
+
+Project PSP-2027-012: Aiken 230 kV Transformer Addition
+Location: Aiken substation, Aiken County
+Scope: add a second 230/115 kV transformer
+Construction: Summer 2027
+Status: Proposed
+
+Project PSP-2028-006: Hardeeville 135 kV Line Rebuild
+Location: Hardeeville substation, Jasper County
+Scope: rebuild 5 miles of line toward the Savannah River
+Construction: April 2028 – September 2028
+Status: Planned

@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gridlock-radar"
+version = "0.1.0"
+description = "Hackathon prototype for identifying spatial and schedule overlaps in utility construction plans"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "GridLock Radar contributors" }]
+keywords = ["electricity", "transmission", "geospatial", "streamlit", "hackathon"]
+requires-python = ">=3.10"
+dependencies = [
+  "streamlit>=1.40",
+  "plotly>=5.24",
+  "pandas>=2.2",
+  "anthropic>=1.0",
+  "pdfplumber>=0.11",
+  "shapely>=2.0",
+  "pyproj>=3.6",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["gridlock*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

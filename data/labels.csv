@@ -1,0 +1,16 @@
+project_id,utility,project_type,voltage_kv,lat,lon,start_date,end_date,note
+PSP-2027-001,Palmetto Sample Power,line_rebuild,230,33.5311,-81.8424,2027-03-01,2027-10-31,lat/lon = line midpoint
+PSP-2027-004,Palmetto Sample Power,line_rebuild,115,33.3760,-81.8368,2027-04-01,2027-09-30,lat/lon = line midpoint
+PSP-2028-002,Palmetto Sample Power,substation,115,33.6518,-82.1771,2028-04-01,2028-10-31,dates from the utility's siting filing
+PSP-2027-009,Palmetto Sample Power,transformer,115,33.9135,-82.2932,2027-05-01,2027-11-30,
+PSP-2029-001,Palmetto Sample Power,substation_equipment,230,33.0074,-81.3084,2029-03-01,2029-12-31,start date from outage schedule
+PSP-2027-012,Palmetto Sample Power,transformer,230,33.5604,-81.7196,2027-06-01,2027-08-31,
+PSP-2028-006,Palmetto Sample Power,line_rebuild,115,32.2871,-81.0790,2028-04-01,2028-09-30,135 kV in the plan is a typo for 115 kV
+PSE-2027-003,Peach Sample Electric,line_rebuild,230,33.4877,-81.9878,2027-04-01,2027-09-30,lat/lon = line midpoint
+PSE-2027-007,Peach Sample Electric,transformer,115,33.4164,-81.8860,2027-06-01,2027-12-31,
+PSE-2028-001,Peach Sample Electric,substation,115,33.5337,-82.1307,2028-01-01,2028-12-31,
+PSE-2027-010,Peach Sample Electric,line_rebuild,230,33.2817,-82.0131,2027-08-01,2028-03-31,lat/lon = line midpoint
+PSE-2029-002,Peach Sample Electric,line_rebuild,115,32.0809,-81.0912,2029-03-01,2029-05-31,
+PSE-2028-004,Peach Sample Electric,transformer,230,33.7926,-82.4790,2028-05-01,2028-10-31,
+PSE-2027-012,Peach Sample Electric,line_rebuild,115,33.5337,-82.1307,2027-10-01,2028-02-29,
+PSE-2028-009,Peach Sample Electric,substation_equipment,230,33.4735,-82.0105,2028-07-01,2028-11-30,

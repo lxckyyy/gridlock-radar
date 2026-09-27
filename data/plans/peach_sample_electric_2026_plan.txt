@@ -1,0 +1,49 @@
+=== Page 1 ===
+Utility: Peach Sample Electric
+Transmission Construction Outlook 2026-2030
+SYNTHETIC SAMPLE DOCUMENT FOR HACKATHON DEMO. Not a real utility; substations are placed near real towns.
+
+Project PSE-2027-003: Augusta-North Augusta 230 kV Tie Line Rebuild
+Route: Augusta substation to North Augusta substation, Richmond County, GA
+Description: rebuild the 230 kV interstate tie across the Savannah River
+Schedule: April 2027 through September 2027
+Status: Approved
+
+Project PSE-2027-007: Sand Bar Ferry 115 kV Transformer Addition
+Site: Sand Bar Ferry substation, Richmond County
+Description: add a third 115 kV transformer for load growth
+Construction: Jun 2027 - Dec 2027
+Status: Approved
+
+Project PSE-2028-001: Evans 115 kV Substation Expansion
+Site: Evans substation, Columbia County
+Description: substation expansion with two new 115 kV bays
+Construction: Q1 2028 – Q4 2028
+Status: Planned
+
+=== Page 2 ===
+Project PSE-2027-010: Waynesboro-Augusta 230 kV Line Rebuild
+Route: Waynesboro substation to Augusta substation, Burke County
+Construction: August 2027 – March 2028
+Status: Approved
+
+Project PSE-2029-002: Savannah 115 kV Reconductor
+Site: Savannah substation, Chatham County
+Timing: Spring 2029
+Status: Proposed
+
+Project PSE-2028-004: Lincolnton 230 kV Transformer Replacement
+Site: Lincolnton substation, Lincoln County
+Construction: May 2028 – Oct 2028
+Status: Planned
+
+Project PSE-2027-012: Evans 115 kV Line Rebuild
+Location: near Evans
+Construction: Oct 2027 - Feb 2028
+Status: Planned
+
+Project PSE-2028-009: Augusta 230 kV Breaker Replacement
+Site: Augusta substation, Richmond County
+Description: replace three 230 kV breakers
+Construction: July 2028 – November 2028
+Status: Planned
